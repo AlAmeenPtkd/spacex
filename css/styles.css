@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.img-div1{
+    height: 901px;
+    margin-top: -20px;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/ax-1/post-launch/Homepage_Axiom1_outsidewater_IMG_0358.webp");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.img-div2{
+    /* width: 100%; */
+    height: 901px;
+    margin-top: -20px;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/transporter-4/post-launch/Transporter-4_homepage_desktop.webp");
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.img-div3{
+    /* width: 100%; */
+    height: 901px;
+    margin-top: -20px;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/sl4-12/post-launch/Starlink-4-12_desktop_homepage.webp");
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.img-div4{
+    /* width: 100%; */
+    height: 901px;
+    margin-top: -32px;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/starship-update/S20_Chopstick_Stack_Desktop.webp");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.img-div5{
+    /* width: 100%; */
+    height: 901px;
+    margin-top: -50px;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2021/hls-resized-2.webp");
+    background-size: cover;
+}
+ 
+
+.nav-bar{
+    /* width: 100%; */
+    height: 100px;
+    position: fixed;
+    display: flex;
+    top:0;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+}
+
+li{
+    padding-left: 15px;
+    margin-left: 12px;
+    margin-top: 0;
+}
+
+.imgtext{
+    display: flex;
+    width: 210px;
+    height: 26.25px;
+    /* padding-bottom: 10px; */
+}
+
+.items{
+    display: flex;
+    align-items: center;
+}
+
+.space1{
+    width: 310px;
+}
+
+.last-div{
+    padding-left: 150px;
+    text-align: right;
+}
+
+.bt1{
+    border-radius: 0px;
+    border-color: white;
+    background-color: transparent;
+    height: 50px;
+    width: 160px;
+    color: white;
+    border-style: solid;
+}
+
+.inner-left-div{
+    position: relative;
+    top: 600px;
+    left: 300px;
+}
+
+.line1{
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 0px;
+    position: relative;
+    top: 10px;
+}
+
+.line2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+    margin: 0;
+    width: 100%;
+    display: flex;
+}
+
+.last-div-items{
+    align-items: center;
+    padding-top: 50px;
+    font-size: 11px;
+}
+
+.space2{
+    width: 575px;
+}
+
+.last-list{
+    align-items: center;
+}
+
+#headid{
+    font-weight: normal;
+    color: grey;
+}
